@@ -29,4 +29,12 @@ Accompanist: Compose için yardımcı kütüphaneler
 ![Ekran görüntüsü 2025-04-30 135746](https://github.com/user-attachments/assets/4f5f36fa-c3c5-43ac-baed-4ff4f5b5e244)
 ![Ekran görüntüsü 2025-04-30 140037](https://github.com/user-attachments/assets/629b580f-b949-41a6-b325-3ebc71509bdd)
 ![Ekran görüntüsü 2025-04-30 140018](https://github.com/user-attachments/assets/de01eb5d-1049-4920-8a77-e0554a16ee38)
-![Ekran görüntüsü 2025-04-30 135817](https://github.com/user-attachments/assets/7022042b-ad72-496c-b9d1-8d236d394e27)
+![Ekran görüntüsü 2025-04-30 135817](https://github.com/user-attachments/assets/7022042b-ad72-496c-b9d1-8d236d394e27)  
+
+🏗️ Mimari Yapı  
+Bu proje, temiz kod ve sürdürülebilirlik prensipleri gözetilerek MVVM mimarisi ile tasarlanmıştır:  
+
+Model: Room veritabanı ve Entity sınıfları (NoteEntity)  
+View: Compose UI bileşenleri (NoteListScreen, NoteAddScreen, NoteEditScreen)  
+ViewModel: UI mantığı ve veri işlemleri (NoteViewModel)  
+Repository: Veri erişim katmanı (NoteRepository)  
